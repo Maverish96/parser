@@ -1,5 +1,5 @@
-1. expressions
-2. functions
-3. assignments
-4. iteratives
-5. conditionals
+1. Expressions
+2. Functions
+3. Assignments
+4. Iteratives
+5. Conditionals
